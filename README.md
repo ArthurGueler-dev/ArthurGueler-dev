@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igr.arthur/)
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGueler-dev&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia
 
