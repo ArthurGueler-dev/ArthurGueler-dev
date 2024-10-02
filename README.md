@@ -25,3 +25,4 @@ Entusiasta de tecnologia, buscando criar inovações que fazem a diferença
 
 "A simplicidade é a alma da eficiência." – Austin Freeman
 
+https://github.com/ArthurGueler-dev/arthurgueler.github.io
